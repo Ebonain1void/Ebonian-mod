@@ -1,2 +1,2 @@
 # Ebonian-mod
-A mod fro terraria in tmodloader
+A mod for terraria in tmodloader
